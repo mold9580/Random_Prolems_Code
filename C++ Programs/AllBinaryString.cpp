@@ -1,9 +1,9 @@
 #include<bits/stdc++.h>
 using namespace std;
-string arr = "00000";
+string arr = "000000";
 void BinaryString(int n)
 {
-	if (n == 0)
+	if (n==0)
 		cout << arr << endl;
 	else
 	{
